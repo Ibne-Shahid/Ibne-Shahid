@@ -85,6 +85,9 @@ Currently, I am working on personal projects to improve my web development portf
   <a href="https://wa.me/8801320793841" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40px"/>
   </a>
+  <a href="https://www.linkedin.com/in/ibneshahidanas/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
+  </a>
 </p>
 
 
