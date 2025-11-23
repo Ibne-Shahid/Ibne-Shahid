@@ -1,4 +1,6 @@
-![Banner](https://i.ibb.co/nMDJkfFv/Anas-Bin-Shahid.jpg)
+<p align="center">
+  <img src="./Anas-Bin-Shahid.jpg" alt="Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Ibne-Shahid">
