@@ -43,6 +43,7 @@ Currently, I am working on personal projects to improve my web development portf
 ### 🔗 Frontend:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react" width="48"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48"/>
 </p>
 
@@ -69,8 +70,9 @@ Currently, I am working on personal projects to improve my web development portf
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vercel" width="48"/>
   <img src="https://skillicons.dev/icons?i=netlify" width="48"/>
-  <img src="https://skillicons.dev/icons?i=firebase" width="48"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48"/> 
 </p>
+
 
 ---
 
