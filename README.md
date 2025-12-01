@@ -96,9 +96,6 @@ Currently, I am working on personal projects to improve my web development portf
 ---
 
 ## GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ibne-Shahid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibne-Shahid&layout=compact&theme=tokyonight" alt="Top Languages"/>
