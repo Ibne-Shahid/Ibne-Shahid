@@ -91,12 +91,3 @@ Currently, I am working on personal projects to improve my web development portf
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px"/>
   </a>
 </p>
-
-
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibne-Shahid&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
