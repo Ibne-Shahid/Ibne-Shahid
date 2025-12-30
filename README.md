@@ -73,6 +73,19 @@ Currently, I am working on personal projects to improve my web development portf
   <img src="https://skillicons.dev/icons?i=firebase" width="48"/> 
 </p>
 
+---
+
+## 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ibne-Shahid&show_icons=true&theme=tokyonight&count_private=true" alt="Anas Stats" height="180px" />
+  
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ibne-Shahid&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ibne-Shahid&theme=tokyonight" width="100%" />
+</p>
 
 ---
 
